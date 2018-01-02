@@ -1,8 +1,9 @@
 package app
 
 import (
-	"capi-revel/app/x/math"
 	"time"
+
+	"github.com/trunglen/g/x/math"
 )
 
 type BaseModel struct {
